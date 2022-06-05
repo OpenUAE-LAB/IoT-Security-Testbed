@@ -1,0 +1,4 @@
+sudo apt-get install unoconv
+sudo apt-get install python-qt4 qt4-designer
+
+apt-get install python3-pip
